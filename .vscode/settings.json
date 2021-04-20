@@ -1,0 +1,22 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#5b1a44",
+    "activityBar.activeBorder": "#5d7c23",
+    "activityBar.background": "#5b1a44",
+    "activityBar.foreground": "#e7e7e7",
+    "activityBar.inactiveForeground": "#e7e7e799",
+    "activityBarBadge.background": "#5d7c23",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "statusBar.background": "#5b1a44",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#832562",
+    "titleBar.activeBackground": "#832561",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#83256199",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  },
+  "peacock.color": "#832561",
+  "cSpell.words": [
+    "Gerencie"
+  ]
+}
