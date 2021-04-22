@@ -6,7 +6,7 @@ import {
   Jost_600SemiBold,
 } from "@expo-google-fonts/jost";
 
-import { Welcome } from "./src/pages/Welcome";
+import { UserIdentification } from "./src/pages/UserIdentification";
 
 export default function App() {
   const [fontsLoaded] = useFonts({
@@ -14,5 +14,5 @@ export default function App() {
     Jost_600SemiBold,
   });
 
-  return !fontsLoaded ? <AppLoading /> : <Welcome />;
+  return !fontsLoaded ? <AppLoading /> : <UserIdentification />;
 }
