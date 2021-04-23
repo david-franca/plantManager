@@ -1,24 +1,25 @@
 {
   "workbench.colorCustomizations": {
-    "activityBar.activeBackground": "#5b1a44",
-    "activityBar.activeBorder": "#5d7c23",
-    "activityBar.background": "#5b1a44",
-    "activityBar.foreground": "#e7e7e7",
-    "activityBar.inactiveForeground": "#e7e7e799",
-    "activityBarBadge.background": "#5d7c23",
+    "activityBar.activeBackground": "#2fcefa",
+    "activityBar.activeBorder": "#da05ac",
+    "activityBar.background": "#2fcefa",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#da05ac",
     "activityBarBadge.foreground": "#e7e7e7",
-    "statusBar.background": "#5b1a44",
-    "statusBar.foreground": "#e7e7e7",
-    "statusBarItem.hoverBackground": "#832562",
-    "titleBar.activeBackground": "#832561",
-    "titleBar.activeForeground": "#e7e7e7",
-    "titleBar.inactiveBackground": "#83256199",
-    "titleBar.inactiveForeground": "#e7e7e799"
+    "statusBar.background": "#2fcefa",
+    "statusBar.foreground": "#15202b",
+    "statusBarItem.hoverBackground": "#06bdf0",
+    "titleBar.activeBackground": "#61dafb",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveBackground": "#61dafb99",
+    "titleBar.inactiveForeground": "#15202b99"
   },
-  "peacock.color": "#832561",
+  "peacock.color": "#61dafb",
   "cSpell.words": [
     "Gerencie",
     "Prontinho",
+    "iphone",
     "jost",
     "plantinhas"
   ]
