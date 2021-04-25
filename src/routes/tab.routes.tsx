@@ -4,6 +4,7 @@ import colors from "../styles/colors";
 import { PlantSelect } from "../pages/PlantSelect";
 import { MaterialIcons } from "@expo/vector-icons";
 import { MyPlants } from "../pages/MyPlants";
+import { Platform } from "react-native";
 
 const AppTab = createBottomTabNavigator();
 
@@ -16,6 +17,7 @@ const AuthRoutes: React.FC = () => {
         labelPosition: "beside-icon",
         style: {
           height: 60,
+          paddingVertical: Platform.OS === "ios" ? 20 : 0,
         },
       }}
     >
